@@ -34,7 +34,7 @@ Built using only **HTML** and **CSS** — no JavaScript or frameworks.
 
 ## 🔗 Live Demo
 
-[View Live Page](https://yourusername.github.io/car-wash-landing)  
+[View Live Page]( https://aman-1010415.github.io/CODSOFT-T2/)  
 *(Replace the link with your GitHub Pages URL)*
 
 ---
